@@ -67,6 +67,13 @@ To streamline patient onboarding and reduce errors by automating the data entry 
 
 ### Result
 Improved accuracy and reduced administrative workload in hospitals through automation of patient registration.
+## Result Screenshots
+
+![image](https://github.com/user-attachments/assets/aac4bb27-bc38-4c33-b88e-9cae938e310a)
+
+![image](https://github.com/user-attachments/assets/0c73c467-4beb-4aeb-b5c1-cabebe172e4a)
+
+![image](https://github.com/user-attachments/assets/cc709fe5-00c5-45f3-9e8f-e563657137ac)
 
 ---
 
