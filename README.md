@@ -25,6 +25,18 @@ To build an automated travel assistant that organizes trip planning by retrievin
 
 ### Result
 An automated workflow that assists users in efficiently planning trips, reduces manual work, and increases travel booking speed and convenience.
+## Result Screenshots
+
+![image](https://github.com/user-attachments/assets/40d0e208-7f18-4cea-872e-537f80083c3d)
+
+![image](https://github.com/user-attachments/assets/c4f992c9-b457-45f1-887c-08a2748e814e)
+
+![image](https://github.com/user-attachments/assets/c418ff80-dd65-4db4-b3cf-84dd997acc18)
+
+
+
+
+
 
 ---
 
